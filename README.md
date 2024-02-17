@@ -5,7 +5,9 @@ Sora can create videos of up to 60 seconds featuring highly detailed scenes, com
 We’ll be taking several important safety steps ahead of making Sora available in OpenAI’s products. We are working with red teamers — domain experts in areas like misinformation, hateful content, and bias — who are adversarially testing the model.
 All the clips in this video were generated directly by Sora without modification. Learn more about [Sora](https://openai.com/sora)
 
-![SORAAI](Monster.gif)
+<video src="https://example.com/Monster.gif" width="640" height="360" controls>
+    Your browser does not support the video tag.
+</video>
 
 # FAQs - All you need to know about SORA
 ### 1. What is Sora AI ?
