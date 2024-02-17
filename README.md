@@ -7,6 +7,9 @@ All the clips in this video were generated directly by Sora without modification
 
 Learn more about [Sora](https://openai.com/sora)
 
+## SORA AI Generated Video
+![SORAAI](https://i.imgur.com/oZpLsDs.gif)
+
 # FAQs - All you need to know about SORA
 
 ### 1. What is Sora AI ?
