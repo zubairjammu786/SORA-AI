@@ -38,3 +38,10 @@ Learn more about [Sora](https://openai.com/sora)
 - Personalizing video content for individual users.
  - Assisting filmmakers and animators with their work.
 
+### 7. What are the ethical considerations of SORA AI?
+**ANS:** Like any powerful technology, SORA could be misused to create fake videos or disinformation.
+It's important to consider the potential impact of AI-generated videos on society and culture.
+
+### 8. Where can I learn more about SORA AI?
+**ANS:** You can visit the OpenAI website for more information and examples: [SORA](https://openai.com/sora)
+There are also many articles and videos online discussing SORA and its potential impact.
