@@ -8,10 +8,9 @@ All the clips in this video were generated directly by Sora without modification
 Learn more about [Sora](https://openai.com/sora)
 
 ## SORA AI Generated Video
-![SORAAI](https://i.imgur.com/oZpLsDs.gif)
+![SORAAI](Monster.gif)
 
 # FAQs - All you need to know about SORA
-
 ### 1. What is Sora AI ?
 **ANS:** SORA is an AI model developed by OpenAI that can generate realistic and imaginative videos from text descriptions. It uses a process called text-to-video synthesis to create videos up to a minute long, featuring detailed scenes, complex camera movements, and multiple characters.
 
